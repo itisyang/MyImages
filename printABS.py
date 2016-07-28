@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 #print abs value of an integer
-a = input('input:')
+a = input('INPUT:')
 if a >= 0:
 	print a
 else:
-	print '123',-a
+	print 'ABS:',-a
 
 
 #使用raw_input()只能输入字符串
